@@ -1,8 +1,13 @@
-<h1>Hi, I'm Jon! <br/><a href="https://github.com/joshmadakor1">Student</a>, <a href="https://www.linkedin.com/in/jonrooker/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jonrooker/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+  - [1 - Virtual Home Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [2 - Building a SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [3 - Build a honeypot](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [4 - Malware Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [5 - CTF Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [6 - Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
